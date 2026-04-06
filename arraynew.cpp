@@ -48,4 +48,9 @@ int main() {
     }
 
     cout << endl;
+    //menampilakan dengan menggunakan pengulangan for
+    for (int i = 0; i <= 4; i++)
+    {
+        cout
+    }
 }
